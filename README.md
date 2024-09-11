@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EduardoPbs/8b26ab763eba1f8822c5ae39d05eaec8/raw/007af318e573229758c726307d7ddd4dcf2b1988/githubcard.svg"/>
 <h1 align="left">Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Sou Eduardo Soares</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardosoares&color=blue" alt="Profile views" /> </p>
 
