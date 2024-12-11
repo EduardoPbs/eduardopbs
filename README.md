@@ -1,11 +1,9 @@
 <h1 align="left">Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Sou Eduardo Soares</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardosoares&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor FullStack.
-
-- 🔭 Atualmente trabalhando em [HubInova FEMA](https://hub.fema.edu.br/)
-
-- 🎓 3˚ ano - Análise e Desenvolvimento de Sistemas
+- 🔥 Desenvolvedor
+  
+- 🎓 Análise e Desenvolvimento de Sistemas
 
 <br><br>
 
