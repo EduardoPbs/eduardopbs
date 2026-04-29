@@ -2,8 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardosoares&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor
-  
-- 🎓 Análise e Desenvolvimento de Sistemas
+
+- Engenharia de Software
+
+- Análise e Desenvolvimento de Sistemas
 
 <br><br>
 
